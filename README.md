@@ -4,7 +4,7 @@ This project focuses on building a car resale price prediction system using Line
 
 <a href="https://github.com/Bhumika1808/Car-Price_Prediction/blob/main/quikr_car.csv"> Dataset used</a>
 
-<a href="href="https://github.com/Bhumika1808/Car-Price_Prediction/blob/main/quikr_car.csv"> Analysis and Model</a>">
+<a href="https://github.com/Bhumika1808/Car-Price_Prediction/blob/main/quikr_car.csv"> Analysis and Model</a>">
 A machine learning pipeline with data preprocessing and column transformation was created, and the model was trained multiple times using different random states. The best model, found at random_state=655, achieved a high R² score of 0.92, indicating strong prediction accuracy.
 
 The GUI allows users to select input features and returns an estimated price instantly.
