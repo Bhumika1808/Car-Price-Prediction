@@ -73,7 +73,7 @@ def add_bg_from_local(image_file):
 # Call this before your Streamlit content
 add_bg_from_local("bg_car2.jpeg")
 
-st.sidebar.image("car-Logos.png", use_column_width=True)
+st.sidebar.image("Car-Logos.png", use_container_width=True)
 
 # --- Sidebar Inputs ---
 st.sidebar.header("🛠️ Car Information")
